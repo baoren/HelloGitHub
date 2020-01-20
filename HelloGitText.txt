@@ -1,2 +1,3 @@
 Hello Git!
 Egit Test!
+ブランチのテストまでいった！
